@@ -216,7 +216,7 @@ a {
 }
 
 .text-block {
-  display: none;
+  display: block;
   width: 69%;
   -webkit-box-flex: 0;
   -webkit-flex: 0 auto;
