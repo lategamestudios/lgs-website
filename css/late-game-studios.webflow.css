@@ -406,7 +406,7 @@ a {
   -ms-flex-direction: column;
   flex-direction: column;
   background-color: #3f5473;
-  background-image: radial-gradient(circle farthest-corner at 50% 50%, #46628c, #3f5473);
+  background-image: radial-gradient(circle farthest-corner at 50% 50%, #2a5488, #2a5488);
   background-position: 0px 0px;
   background-size: auto;
   font-family: 'Berlin sans fb demi', sans-serif;
@@ -992,7 +992,7 @@ a {
 
 @media screen and (min-width: 1440px) {
   .full-page-mh {
-    background-image: radial-gradient(circle farthest-corner at 50% 50%, #46628c, #3f5473);
+    background-image: radial-gradient(circle farthest-corner at 50% 50%, #2a5488, #2a5488);
     background-position: 0px 0px;
     background-size: auto;
   }
@@ -1013,7 +1013,7 @@ a {
   }
 
   .full-page-mh {
-    background-image: radial-gradient(circle farthest-corner at 50% 50%, #46628c, #3f5473);
+    background-image: radial-gradient(circle farthest-corner at 50% 50%, #2a5488, #2a5488);
     background-position: 0px 0px;
     background-size: auto;
   }
@@ -1121,7 +1121,7 @@ a {
   }
 
   .full-page-mh {
-    background-image: radial-gradient(circle farthest-corner at 50% 50%, #46628c, #3f5473);
+    background-image: radial-gradient(circle farthest-corner at 50% 50%, #2a5488, #2a5488);
     background-position: 0px 0px;
     background-size: auto;
   }
